@@ -1,0 +1,4 @@
+Cluster,Max_BPM,Avg_BPM,Resting_BPM,Session_Duration (hours),Water_Intake (liters),Workout_Frequency (days/week),Calories_Burned,Cluster_Size
+0,184.19,161.27,72.78,0.59,1.12,3.22,296.29,432
+1,174.4,135.12,68.53,0.87,1.27,4.32,318.19,389
+2,184.26,152.85,71.86,1.07,1.71,3.47,523.33,379

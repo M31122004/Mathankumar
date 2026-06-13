@@ -1,0 +1,21 @@
+Feature,Importance
+num__Session_Duration (hours),119.35243055753378
+cat__Workout_Type_Yoga,110.40329678923273
+cat__Workout_Type_HIIT,88.86314963311771
+num__Weight (kg),64.04148954682537
+cat__Workout_Type_Cardio,60.268662712989034
+num__Avg_BPM,40.91841899371611
+cat__Experience_Level_Beginner,40.49750194393871
+cat__Gender_Female,35.342875971188924
+cat__Experience_Level_Advanced,26.59062478218406
+num__Workout_Frequency (days/week),8.150045924838393
+num__Water_Intake (liters),6.560145408338519
+num__Age,4.8210888301175565
+num__BMI,3.766203270116225
+num__Height (m),2.813069349355148
+num__Resting_BPM,2.546271611948138
+num__Max_BPM,2.217482658015404
+num__Fat_Percentage,1.631683841264532
+cat__Workout_Type_Strength,0.015989398739384146
+cat__Gender_Male,3.583733236011329e-12
+cat__Experience_Level_Intermediate,0.0
